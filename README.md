@@ -1,7 +1,6 @@
-(img align="right" alt="Coding" width="400" src="https://images.search.yahoo.com/search/images;_ylt=AwrOp26by6pkn8ozVQOJzbkF;_ylu=c2VjA3NlYXJjaARzbGsDYnV0dG9u;_ylc=X1MDOTYwNjI4NTcEX3IDMgRmcgNtY2FmZWUEZnIyA3A6cyx2OmksbTpzYi10b3AEZ3ByaWQDdjlXbGtDd2NSZHF2a05uZGVWZTZ1QQRuX3JzbHQDMARuX3N1Z2cDMARvcmlnaW4DaW1hZ2VzLnNlYXJjaC55YWhvby5jb20EcG9zAzAEcHFzdHIDBHBxc3RybAMwBHFzdHJsAzMyBHF1ZXJ5A0RhdGElMjBzY2llbmNlJTIwYmFubmVyJTIwQW5pbWF0ZWQlMjBHSUYEdF9zdG1wAzE2ODg5MTUwNDU-?p=Data+science+banner+Animated+GIF&fr=mcafee&fr2=p%3As%2Cv%3Ai%2Cm%3Asb-top&ei=UTF-8&x=wrt&type=E210US1274G0#id=13&iurl=https%3A%2F%2Fcdn.dribbble.com%2Fusers%2F20368%2Fscreenshots%2F4012238%2Fdata_scene.gif&action=click")
 <h1 align="center">Hi 👋, I'm Parsanjeet</h1>
 <h3 align="center">A passionate Computer Science from India</h3>
-(img align="right" alt="Coding" width="400" src="tenor.gif")
+<img align="right" alt="coding" width="400" scr="https://media1.tenor.com/images/cd37fa49c983ac905df0016fd5b6a2ee/tenor.gif?itemid=13165216">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=parsanjeet&label=Profile%20views&color=0e75b6&style=flat" alt="parsanjeet" /> </p>
 
