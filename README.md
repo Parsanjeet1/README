@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Parsanjeet</h1>
 <h3 align="center">A passionate Computer Science from India</h3>
-<img align="right" alt="coding" width="400" scr="https://media1.tenor.com/images/cd37fa49c983ac905df0016fd5b6a2ee/tenor.gif?itemid=13165216">
+<img align="right" width="400" scr="https://media1.tenor.com/images/cd37fa49c983ac905df0016fd5b6a2ee/tenor.gif?itemid=13165216">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=parsanjeet&label=Profile%20views&color=0e75b6&style=flat" alt="parsanjeet" /> </p>
 
